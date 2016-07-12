@@ -1,0 +1,7 @@
+[Activity]
+name = Vocaleando
+bundle_id = org.sugarlabs.Vocaleando
+icon = activity-helloworld
+exec = sugar-activity activity.HelloWorldActivity
+activity_version = 1
+show_launcher = yes
